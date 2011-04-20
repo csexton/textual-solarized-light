@@ -23,17 +23,26 @@
                         <key>Inactive Color</key>
                         <string>#B3AFA4</string>
                         <key>Active Color (Selected)</key>
-                        <string>#FDF6E3</string>
+                        <string>#268bd2</string>
                         <key>Inactive Color (Selected)</key>
-                        <string>#FDF6E3</string>
+                        <string>#B3AFA4</string>
                         <key>Gradient</key>
                         <dict>
-                                <key>Top Color</key>
+                                <!--key>Top Color</key>
                                 <string>#93A1A1</string>
                                 <key>Bottom Color</key>
                                 <string>#657B83</string>
                                 <key>Top Line Color</key>
                                 <string>#586E75</string>
+                                <key>Bottom Line Color</key>
+                                <string>#586E75</string>-->
+
+                                <key>Top Color</key>
+                                <string>#fdf6e3</string>
+                                <key>Bottom Color</key>
+                                <string>#eee8d5</string>
+                                <key>Top Line Color</key>
+                                <string>#586e75</string>
                                 <key>Bottom Line Color</key>
                                 <string>#586E75</string>
                         </dict>
