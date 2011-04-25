@@ -1,6 +1,8 @@
 Solarized Colorscheme for Textual
 =================================
 
+Solarized Light colorscheme for the [Textual IRC client](http://www.codeux.com/textual/).
+
 Developed by Christopher Sexton, based on Ethan Schoonover's work.
 
 Visit the [Solarized homepage]
