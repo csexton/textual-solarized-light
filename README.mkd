@@ -1,0 +1,36 @@
+Solarized Colorscheme for Textual
+=================================
+
+Developed by Christopher Sexton, based on Ethan Schoonover's work.
+
+Visit the [Solarized homepage]
+------------------------------
+
+See the [Solarized homepage] for screenshots, updates and color schemes for other applicaitons.
+
+[Solarized homepage]:   http://ethanschoonover.com/solarized
+[Solarized repository]: https://github.com/altercation/solarized
+
+
+Installation
+------------
+
+### Option 1: Manual installation
+
+1.  Download the color scheme's [zip file](https://github.com/csexton/textual-solarized-light/zipball/master)
+
+1.  Open textual, Preferences, Style, click on the "Open Style Folder"
+
+3.  Create a "Solarized Light" folder there
+
+4.  Copy the expanded zip file into the new "Solarized Light" folder
+
+5.  Choose the colorscheme from Textual's Preferences -> Style -> Style Dropdown
+
+### Option 2: Git installation ***(recommended)***
+
+1.  Clone the repo to the Textual styles folder
+
+    $ git clone http://github.com/csexton/textual-solarized-light.git ~/Library/Application\ Support/Textual/Styles/Solarized\ Light
+
+2.  Choose the colorscheme from Textual's Preferences -> Style -> Style Dropdown
